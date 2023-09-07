@@ -5,5 +5,13 @@ public class Main {
         String firstName = "Abubakary";
         String lastName = "Sanoe";
         System.out.println("First Name: " + firstName + "\nLast Name: " + lastName);
+        System.out.println(firstName);
+
+
+
+
+
+
+
     }
 }
